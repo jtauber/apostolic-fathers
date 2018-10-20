@@ -26,3 +26,7 @@
 * share with Seumas and each make another round of corrections
 
 * repeat until a single text is converged on
+
+* use scripts/extract.py to extract corrected text to
+  structured/{}_CORRECTED.txt
+* edit result to remove empty verses
