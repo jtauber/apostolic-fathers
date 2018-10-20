@@ -9,3 +9,7 @@ Files in `raw-ccel-lake/` are from <https://www.ccel.org/l/lake/fathers/toc.htm>
 Files in `raw-ogl-lake/` are from <https://github.com/PerseusDL/canonical-greekLit> and <https://github.com/OpenGreekAndLatin/First1KGreek>.
 
 Files in `structured/` put a "verse" on each line with a `chapter.verse` reference (or `book.chapter.verse` reference in the case of The Shepherd of Hermas).
+
+## Corrected Texts
+
+* **1 Clement** — `structured/001-i_clement_CORRECTED.txt`
