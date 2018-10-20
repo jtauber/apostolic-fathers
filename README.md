@@ -1,6 +1,6 @@
 # Apostolic Fathers
 
-The Perseus / Open Greek and Latin Project text of Lake is currently being compared with the text in CCEL and in Logos by James Tauber and Seumas Macdonald to produce a correct text (and eventually) analysis.
+The Perseus / Open Greek and Latin Project text of Lake is currently being compared with the text in CCEL and in Logos by James Tauber and Seumas Macdonald to produce a corrected text (and eventually) analysis.
 
 See `NOTES.txt` for details of the process.
 
