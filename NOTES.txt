@@ -29,4 +29,4 @@
 
 * use scripts/extract.py to extract corrected text to
   structured/{}_CORRECTED.txt
-* edit result to remove empty verses
+* edit result to remove empty verses and change ~ to space
