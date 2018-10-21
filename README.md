@@ -13,3 +13,4 @@ Files in `structured/` put a "verse" on each line with a `chapter.verse` referen
 ## Corrected Texts
 
 * **1 Clement** — `structured/001-i_clement_CORRECTED.txt`
+* **2 Clement** — `structured/002-ii_clement_CORRECTED.txt`
