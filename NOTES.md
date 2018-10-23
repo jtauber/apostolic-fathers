@@ -6,7 +6,7 @@
 * copy-paste from Logos to `logos/{}.txt`
 * edit `scripts/process-logos.py` with new filename and run,
   redirecting result to `structured/{}_LOGOS.txt`
-* remove blank sections from ``{}_LOGOS.txt` manually and
+* remove blank sections from `{}_LOGOS.txt` manually and
   fix up front and end matter
 
 * edit `WORK` in `scripts/merge.py`
