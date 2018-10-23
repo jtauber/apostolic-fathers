@@ -8,7 +8,7 @@ import roman
 # note that the output is still slightly tweaked by hand, this just does
 # most of the heavy lifting
 
-with open("logos/006-ignatius-romans.txt") as f:
+with open("logos/009-ignatius-polycarp.txt") as f:
     ch = 0
     vs = 0
     for line in f:
