@@ -2,7 +2,7 @@
 
 The Perseus / Open Greek and Latin Project text of Lake is currently being compared with the text in CCEL and in Logos by James Tauber and Seumas Macdonald to produce a corrected text (and eventually) analysis.
 
-See `NOTES.txt` for details of the process.
+See `NOTES.md` for details of the process.
 
 Files in `raw-ccel-lake/` are from <https://www.ccel.org/l/lake/fathers/toc.htm>.
 
