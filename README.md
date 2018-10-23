@@ -14,3 +14,4 @@ Files in `structured/` put a "verse" on each line with a `chapter.verse` referen
 
 * **1 Clement** — `structured/001-i_clement_CORRECTED.txt`
 * **2 Clement** — `structured/002-ii_clement_CORRECTED.txt`
+* **Ignatius to Ephesians** — `structured/003-ignatius-ephesians_CORRECTED.txt`
