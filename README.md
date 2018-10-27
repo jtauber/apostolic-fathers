@@ -10,19 +10,19 @@ Files in `raw-ogl-lake/` are from <https://github.com/PerseusDL/canonical-greekL
 
 Files in `structured/` put a "verse" on each line with a `chapter.verse` reference (or `book.chapter.verse` reference in the case of The Shepherd of Hermas).
 
-## Corrected Texts
-
-* **1 Clement** — `structured/001-i_clement_CORRECTED.txt`
-* **2 Clement** — `structured/002-ii_clement_CORRECTED.txt`
-* **Ignatius to Ephesians** — `structured/003-ignatius-ephesians_CORRECTED.txt`
-
 ## Status
 
-| Work                             | Prep | JT1  | SM1  | Done |
-| -------------------------------- | ---- | ---- | ---- | ---- |
-| 001 1 Clement                    | ✔    | ✔    | ✔    | ✔    |
-| 002 2 Clement                    | ✔    | ✔    | ✔    | ✔    |
-| 003 Ignatius to Ephesians        | ✔    | ✔    | ✔    | ✔    |
+**Prep** — text converted and aligned  
+**JT1** — first correction by James  
+**SM1** — first correction by Seumas  
+**Done** — consensus achieved and corrected text available
+
+
+| Work                             | Prep | JT1  | SM1  | Done | Link |
+| -------------------------------- | ---- | ---- | ---- | ---- | ---- |
+| 001 1 Clement                    | ✔    | ✔    | ✔    | ✔    | https://github.com/jtauber/apostolic-fathers/blob/master/structured/001-i_clement_CORRECTED.txt
+| 002 2 Clement                    | ✔    | ✔    | ✔    | ✔    | https://github.com/jtauber/apostolic-fathers/blob/master/structured/002-ii_clement_CORRECTED.txt
+| 003 Ignatius to Ephesians        | ✔    | ✔    | ✔    | ✔    | https://github.com/jtauber/apostolic-fathers/blob/master/structured/003-ignatius-ephesians_CORRECTED.txt
 | 004 Ignatius to Magnesians       | ✔    | ✔    |
 | 005 Ignatius to Trallians        | ✔    | ✔    |
 | 006 Ignatius to Romans           | ✔    | ✔    |
