@@ -17,7 +17,7 @@ See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md
 | 001  | 1 Clement                    | ✔    | ✔    | ✔    | ✔         | [001-i_clement_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/001-i_clement_CORRECTED.txt)
 | 002  | 2 Clement                    | ✔    | ✔    | ✔    | ✔         | [002-ii_clement_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/002-ii_clement_CORRECTED.txt)
 | 003  | Ignatius to Ephesians        | ✔    | ✔    | ✔    | ✔         | [003-ignatius-ephesians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/003-ignatius-ephesians_CORRECTED.txt)
-| 004  | Ignatius to Magnesians       | ✔    | ✔    |
+| 004  | Ignatius to Magnesians       | ✔    | ✔    | ✔    |
 | 005  | Ignatius to Trallians        | ✔    | ✔    |
 | 006  | Ignatius to Romans           | ✔    | ✔    |
 | 007  | Ignatius to Philadelphians   | ✔    | ✔    |
