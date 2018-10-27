@@ -15,3 +15,23 @@ Files in `structured/` put a "verse" on each line with a `chapter.verse` referen
 * **1 Clement** — `structured/001-i_clement_CORRECTED.txt`
 * **2 Clement** — `structured/002-ii_clement_CORRECTED.txt`
 * **Ignatius to Ephesians** — `structured/003-ignatius-ephesians_CORRECTED.txt`
+
+## Status
+
+| Work                             | Prep | JT1  | SM1  | Done |
+| -------------------------------- | ---- | ---- | ---- | ---- |
+| 001 1 Clement                    | ✔    | ✔    | ✔    | ✔    |
+| 002 2 Clement                    | ✔    | ✔    | ✔    | ✔    |
+| 003 Ignatius to Ephesians        | ✔    | ✔    | ✔    | ✔    |
+| 004 Ignatius to Magnesians       | ✔    | ✔    |
+| 005 Ignatius to Trallians        | ✔    | ✔    |
+| 006 Ignatius to Romans           | ✔    | ✔    |
+| 007 Ignatius to Philadelphians   | ✔    | ✔    |
+| 008 Ignatius to Smyrnaeans       | ✔    | ✔    |
+| 009 Ignatius to Polycarp         | ✔    | ✔    |
+| 010 Polycarp to Philippians      | ✔    |
+| 011 Didache                      |
+| 012 Barnabas                     |
+| 013 Shepherd                     |
+| 014 Martyrdom of Polycarp        |
+| 015 Diognetus                    |
