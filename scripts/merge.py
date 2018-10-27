@@ -3,7 +3,7 @@
 from itertools import zip_longest
 from unicodedata import normalize
 
-WORK = "010-polycarp-philippians"
+WORK = "012-barnabas"
 
 A = {}
 B = {}
@@ -38,6 +38,7 @@ with open(f"structured/{WORK}_OGL.txt") as f:
         line = line.replace(" ἐφ̓ ", " ἐφʼ ")
         line = line.replace(" ὑπ̓ ", " ὑπʼ ")
         line = line.replace(" ὑφ̓ ", " ὑφʼ ")
+        line = line.replace(" δ̓ ", " δʼ ")
         ref = line.strip().split()[0]
         text = line.strip().split()[1:]
         B[ref] = text

@@ -9,7 +9,7 @@
 009 Ignatius Polycarp         urn:cts:greekLit:tlg1443.tlg010.1st1K-grc1
 010 Polycarp Philippians      urn:cts:greekLit:tlg1622.tlg001.1st1K-grc1
 011 Didache                   urn:cts:greekLit:tlg1311.tlg001.1st1K-grc1
-012 Barnabas                  urn:cts:greekLit:tlg1216.tlg001.opp-grc1
+012 Barnabas                  urn:cts:greekLit:tlg1216.tlg001.perseus-grc1
 013 Shepherd                  urn:cts:greekLit:tlg1419.tlg001.1st1K-grc1
 014 Martyrdom of Polycarp     urn:cts:greekLit:tlg1484.tlg001.1st1K-grc1
 015 Diognetus                 urn:cts:greekLit:tlg0646.tlg004.1st1K-grc1
