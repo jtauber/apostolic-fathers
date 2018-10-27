@@ -3,7 +3,7 @@
 from itertools import zip_longest
 from unicodedata import normalize
 
-WORK = "009-ignatius-polycarp"
+WORK = "010-polycarp-philippians"
 
 A = {}
 B = {}
