@@ -1,8 +1,13 @@
 # Apostolic Fathers
 
-The Perseus / Open Greek and Latin Project text of Lake is currently being compared with the text in CCEL and in Logos by James Tauber and Seumas Macdonald to produce a corrected text (and eventually analysis) of the Apostolic Fathers.
+*Edited by James Tauber and Seumas Macdonald*
+
+The Perseus Digital Library / Open Greek and Latin Project text of Lake is currently being compared with the text in CCEL and in Logos to identify discrepancies. These are then being manually checked against the printed Lake to produce a new, corrected text of the Apostolic Fathers based on Lake.
 
 See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md) for details of the process.
+
+Lemmatisation and morphological analysis will follow.
+
 
 ## Status
 
