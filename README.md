@@ -26,6 +26,6 @@ See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md
 | 010  | Polycarp to Philippians      | ✔    |
 | 011  | Didache                      | ✔    |
 | 012  | Barnabas                     | ✔    |
-| 013  | Shepherd                     |
+| 013  | Shepherd                     | 41%  |
 | 014  | Martyrdom of Polycarp        |
 | 015  | Diognetus                    |

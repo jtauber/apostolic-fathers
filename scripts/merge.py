@@ -3,7 +3,7 @@
 from itertools import zip_longest
 from unicodedata import normalize
 
-WORK = "012-barnabas"
+WORK = "013-shepherd"
 
 A = {}
 B = {}
@@ -24,6 +24,7 @@ with open(f"structured/{WORK}_OGL.txt") as f:
         line = normalize("NFC", line).replace("\u2019", "\u02BC")
         line = line.replace(":", "·")
         line = line.replace(" τοῦτ̓ ", " τοῦτʼ ")
+        line = line.replace(" Ἀλλ̓ ", " Ἀλλʼ ")
         line = line.replace(" ἀλλ̓ ", " ἀλλʼ ")
         line = line.replace(" κατ̓ ", " κατʼ ")
         line = line.replace(" καθ̓ ", " καθʼ ")
@@ -52,8 +53,8 @@ with open(f"structured/{WORK}_LOGOS.txt") as f:
         C[ref] = text
         D.add(tuple(int(p) for p in ref.split(".")))
 
-for r, s in sorted(D):
-    ref = f"{r}.{s}"
+for r in sorted(D):
+    ref = ".".join(map(str, r))
     print()
     print(ref)
     print()
