@@ -29,6 +29,7 @@ with open(f"structured/{WORK}_OGL.txt") as f:
         line = line.replace(" κατ̓ ", " κατʼ ")
         line = line.replace(" καθ̓ ", " καθʼ ")
         line = line.replace(" μετ̓ ", " μετʼ ")
+        line = line.replace(" ΜΕΤ̓ ", " ΜΕΤʼ ")
         line = line.replace(" μεθ̓ ", " μεθʼ ")
         line = line.replace(" παῤ ", " παρʼ ")
         line = line.replace(" μηδ̓ ", " μηδʼ ")

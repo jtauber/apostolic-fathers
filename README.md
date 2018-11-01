@@ -31,6 +31,6 @@ Lemmatisation and morphological analysis will follow.
 | 010  | Polycarp to Philippians      | ✔    |
 | 011  | Didache                      | ✔    |
 | 012  | Barnabas                     | ✔    |
-| 013  | Shepherd                     | 63%  |
+| 013  | Shepherd                     | 49%  |
 | 014  | Martyrdom of Polycarp        |
 | 015  | Diognetus                    |
