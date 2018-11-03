@@ -15,7 +15,7 @@ with open("raw-ogl-lake/tlg1419.tlg001.1st1K-grc1.xml") as f:
             if child.tag == "{http://www.tei-c.org/ns/1.0}head":
                 chapter = 0
                 verse = 0
-                text = re.sub("\s+", " ", child.xpath("string()").strip())
+                text = re.sub(r"\s+", " ", child.xpath("string()").strip())
                 print(f"{book}.{chapter}.{verse} {text}")
             elif child.tag == "{http://www.tei-c.org/ns/1.0}div":
                 assert child.attrib["subtype"] == "chapter"
@@ -27,9 +27,9 @@ with open("raw-ogl-lake/tlg1419.tlg001.1st1K-grc1.xml") as f:
                         print(f"{book}.{chapter}.{verse}", end="")
                         for ggchild in gchild:
                             if ggchild.tag == "{http://www.tei-c.org/ns/1.0}p":
-                                print("", re.sub("\s+", " ", ggchild.text).strip(), end="")
+                                print("", re.sub(r"\s+", " ", ggchild.text).strip(), end="")
                                 for gggchild in ggchild:
-                                    print("", re.sub("\s+", " ", gggchild.tail).strip(), end="")
+                                    print("", re.sub(r"\s+", " ", gggchild.tail).strip(), end="")
                             else:
                                 assert False
                         print()

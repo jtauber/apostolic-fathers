@@ -16,7 +16,7 @@ with open("raw-ogl-lake/tlg1216.tlg001.perseus-grc1.xml") as f:
         for child in part:
             if child.tag == "p":
                 verse = 0
-                text = re.sub("\s+", " ", child.xpath("string()").strip())
+                text = re.sub(r"\s+", " ", child.xpath("string()").strip())
                 print(f"{chapter}.{verse} {text}")
             elif child.tag == "div2":
                 assert child.attrib["type"] == "section"
@@ -24,9 +24,9 @@ with open("raw-ogl-lake/tlg1216.tlg001.perseus-grc1.xml") as f:
                 print(f"{chapter}.{verse}", end="")
                 for gchild in child:
                     if gchild.tag == "p":
-                        print("", re.sub("\s+", " ", gchild.text).strip(), end="")
+                        print("", re.sub(r"\s+", " ", gchild.text).strip(), end="")
                         for ggchild in gchild:
-                            print("", re.sub("\s+", " ", ggchild.tail).strip(), end="")
+                            print("", re.sub(r"\s+", " ", ggchild.tail).strip(), end="")
                     else:
                         assert False
                 print()

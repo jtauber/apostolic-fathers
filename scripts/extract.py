@@ -15,7 +15,7 @@ assert len(LINES_1) == len(LINES_2)
 
 has_printed = False
 line_num = 0
-for a, b in zip(LINES_1, LINES_2):
+for a, b in zip_longest(LINES_1, LINES_2):
     line_num += 1
     a = a.rstrip()
     b = b.rstrip()
@@ -29,7 +29,8 @@ for a, b in zip(LINES_1, LINES_2):
         a_tag = a_parts[0][:6].strip()
         b_tag = b_parts[0][:6].strip()
         assert a_tag == b_tag
-        a_word, b_word = normalize("NFC", a_parts[1].strip()), normalize("NFC", b_parts[1].strip())
+        a_word = normalize("NFC", a_parts[1].strip())
+        b_word = normalize("NFC", b_parts[1].strip())
         assert a_word == b_word
         if a_word != "-":
             print(a_word, end=" ")
