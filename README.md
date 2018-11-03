@@ -25,12 +25,12 @@ Lemmatisation and morphological analysis will follow.
 | 004  | Ignatius to Magnesians       | ✔    | ✔    | ✔    | ✔         | [004-ignatius-magnesians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/004-ignatius-magnesians_CORRECTED.txt)
 | 005  | Ignatius to Trallians        | ✔    | ✔    | ✔    |
 | 006  | Ignatius to Romans           | ✔    | ✔    | ✔    |
-| 007  | Ignatius to Philadelphians   | ✔    | ✔    |
+| 007  | Ignatius to Philadelphians   | ✔    | ✔    | ✔    |
 | 008  | Ignatius to Smyrnaeans       | ✔    | ✔    |
 | 009  | Ignatius to Polycarp         | ✔    | ✔    |
 | 010  | Polycarp to Philippians      | ✔    |
 | 011  | Didache                      | ✔    |
 | 012  | Barnabas                     | ✔    |
-| 013  | Shepherd                     | 58%  |
+| 013  | Shepherd                     | 69%  |
 | 014  | Martyrdom of Polycarp        |
 | 015  | Diognetus                    |
