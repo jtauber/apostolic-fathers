@@ -23,7 +23,7 @@ Lemmatisation and morphological analysis will follow.
 | 002  | 2 Clement                    | ✔    | ✔    | ✔    | ✔         | [002-ii_clement_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/002-ii_clement_CORRECTED.txt)
 | 003  | Ignatius to Ephesians        | ✔    | ✔    | ✔    | ✔         | [003-ignatius-ephesians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/003-ignatius-ephesians_CORRECTED.txt)
 | 004  | Ignatius to Magnesians       | ✔    | ✔    | ✔    | ✔         | [004-ignatius-magnesians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/004-ignatius-magnesians_CORRECTED.txt)
-| 005  | Ignatius to Trallians        | ✔    | ✔    | ✔    |
+| 005  | Ignatius to Trallians        | ✔    | ✔    | ✔    | ✔         | [005-ignatius-trallians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/005-ignatius-trallians_CORRECTED.txt)
 | 006  | Ignatius to Romans           | ✔    | ✔    | ✔    |
 | 007  | Ignatius to Philadelphians   | ✔    | ✔    | ✔    |
 | 008  | Ignatius to Smyrnaeans       | ✔    | ✔    |
