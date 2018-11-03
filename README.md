@@ -24,7 +24,7 @@ Lemmatisation and morphological analysis will follow.
 | 003  | Ignatius to Ephesians        | ✔    | ✔    | ✔    | ✔         | [003-ignatius-ephesians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/003-ignatius-ephesians_CORRECTED.txt)
 | 004  | Ignatius to Magnesians       | ✔    | ✔    | ✔    | ✔         | [004-ignatius-magnesians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/004-ignatius-magnesians_CORRECTED.txt)
 | 005  | Ignatius to Trallians        | ✔    | ✔    | ✔    |
-| 006  | Ignatius to Romans           | ✔    | ✔    |
+| 006  | Ignatius to Romans           | ✔    | ✔    | ✔    |
 | 007  | Ignatius to Philadelphians   | ✔    | ✔    |
 | 008  | Ignatius to Smyrnaeans       | ✔    | ✔    |
 | 009  | Ignatius to Polycarp         | ✔    | ✔    |
