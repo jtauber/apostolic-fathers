@@ -8,6 +8,9 @@ See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md
 
 Lemmatisation and morphological analysis will follow.
 
+## License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Status
 
