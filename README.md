@@ -34,6 +34,6 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 | 010  | Polycarp to Philippians      | ✔    |
 | 011  | Didache                      | ✔    |
 | 012  | Barnabas                     | ✔    |
-| 013  | Shepherd                     | 76%  |
+| 013  | Shepherd                     | 83%  |
 | 014  | Martyrdom of Polycarp        |
 | 015  | Diognetus                    |
