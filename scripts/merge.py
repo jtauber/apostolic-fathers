@@ -33,6 +33,7 @@ with open(f"structured/{WORK}_OGL.txt") as f:
         line = line.replace(" μεθ̓ ", " μεθʼ ")
         line = line.replace(" παῤ ", " παρʼ ")
         line = line.replace(" μηδ̓ ", " μηδʼ ")
+        line = line.replace(" οὐδ̓ ", " οὐδʼ ")
         line = line.replace(" ἀπ̓ ", " ἀπʼ ")
         line = line.replace(" ἀφ̓ ", " ἀφʼ ")
         line = line.replace(" δἰ ", " διʼ ")
@@ -40,6 +41,7 @@ with open(f"structured/{WORK}_OGL.txt") as f:
         line = line.replace(" ἐφ̓ ", " ἐφʼ ")
         line = line.replace(" ὑπ̓ ", " ὑπʼ ")
         line = line.replace(" ὑφ̓ ", " ὑφʼ ")
+        line = line.replace(" ἵν̓ ", " ἵνʼ ")
         line = line.replace(" δ̓ ", " δʼ ")
         ref = line.strip().split()[0]
         text = line.strip().split()[1:]
