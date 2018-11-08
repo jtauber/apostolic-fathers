@@ -6,7 +6,7 @@
 from itertools import zip_longest
 from unicodedata import normalize
 
-WORK = "005-ignatius-trallians"
+WORK = "006-ignatius-romans"
 
 LINES_1 = open(f"comparison/{WORK}_COMPARE_JT2.txt").readlines()
 LINES_2 = open(f"comparison/{WORK}_COMPARE_SM2.txt").readlines()
