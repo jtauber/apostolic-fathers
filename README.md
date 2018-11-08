@@ -32,7 +32,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 | 008  | Ignatius to Smyrnaeans       | ✔    | ✔    |
 | 009  | Ignatius to Polycarp         | ✔    | ✔    |
 | 010  | Polycarp to Philippians      | ✔    | ✔    |
-| 011  | Didache                      | ✔    |
+| 011  | Didache                      | ✔    | ✔    |
 | 012  | Barnabas                     | ✔    |
 | 013  | Shepherd                     | ✔    |
 | 014  | Martyrdom of Polycarp        | ✔    |
