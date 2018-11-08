@@ -27,7 +27,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 | 003  | Ignatius to Ephesians        | ✔    | ✔    | ✔    | ✔         | [003-ignatius-ephesians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/003-ignatius-ephesians_CORRECTED.txt)
 | 004  | Ignatius to Magnesians       | ✔    | ✔    | ✔    | ✔         | [004-ignatius-magnesians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/004-ignatius-magnesians_CORRECTED.txt)
 | 005  | Ignatius to Trallians        | ✔    | ✔    | ✔    | ✔         | [005-ignatius-trallians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/005-ignatius-trallians_CORRECTED.txt)
-| 006  | Ignatius to Romans           | ✔    | ✔    | ✔    |
+| 006  | Ignatius to Romans           | ✔    | ✔    | ✔    | ✔         | [006-ignatius-romans_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/006-ignatius-romans_CORRECTED.txt)
 | 007  | Ignatius to Philadelphians   | ✔    | ✔    | ✔    |
 | 008  | Ignatius to Smyrnaeans       | ✔    | ✔    |
 | 009  | Ignatius to Polycarp         | ✔    | ✔    |
