@@ -3,7 +3,7 @@
 from itertools import zip_longest
 from unicodedata import normalize
 
-WORK = "014-martyrdom"
+WORK = "015-diognetus"
 
 A = {}
 B = {}
@@ -23,7 +23,9 @@ with open(f"structured/{WORK}_OGL.txt") as f:
     for line in f:
         line = normalize("NFC", line).replace("\u2019", "\u02BC")
         line = line.replace(":", "·")
+        line = line.replace(" δύναιτ̓ ", " δύναιτʼ ")
         line = line.replace(" τοῦτ̓ ", " τοῦτʼ ")
+        line = line.replace(" πάνθ̓ ", " πάνθʼ ")
         line = line.replace(" Ἀλλ̓ ", " Ἀλλʼ ")
         line = line.replace(" ἀλλ̓ ", " ἀλλʼ ")
         line = line.replace(" κατ̓ ", " κατʼ ")

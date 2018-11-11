@@ -6,7 +6,9 @@ from lxml import etree
 
 NS = {"TEI": "http://www.tei-c.org/ns/1.0"}
 
-with open("raw-ogl-lake/tlg1484.tlg001.1st1K-grc1.xml") as f:
+FILENAME = "raw-ogl-lake/tlg0646.tlg004.1st1K-grc1.xml"
+
+with open(FILENAME) as f:
     tree = etree.parse(f)
     for part in tree.xpath("TEI:text/TEI:body/TEI:div[@type='edition']/TEI:div[@type='textpart']", namespaces=NS):
         assert part.attrib["subtype"] == "chapter"
