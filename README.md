@@ -36,4 +36,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 | 012  | Barnabas                     | ✔    |
 | 013  | Shepherd                     | ✔    |
 | 014  | Martyrdom of Polycarp        | ✔    |
-| 015  | Diognetus                    |
+| 015  | Diognetus                    | ✔    |
