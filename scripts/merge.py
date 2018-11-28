@@ -40,6 +40,7 @@ with open(f"structured/{WORK}_OGL.txt") as f:
         line = line.replace(" ἀφ̓ ", " ἀφʼ ")
         line = line.replace(" δἰ ", " διʼ ")
         line = line.replace(" ἐπ̓ ", " ἐπʼ ")
+        line = line.replace(" Ἐφ̓ ", " Ἐφʼ ")
         line = line.replace(" ἐφ̓ ", " ἐφʼ ")
         line = line.replace(" ὑπ̓ ", " ὑπʼ ")
         line = line.replace(" ὑφ̓ ", " ὑφʼ ")
