@@ -30,8 +30,8 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 | 006  | Ignatius to Romans           | ✔    | ✔    | ✔    | ✔         | [006-ignatius-romans_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/006-ignatius-romans_CORRECTED.txt)
 | 007  | Ignatius to Philadelphians   | ✔    | ✔    | ✔    | ✔         | [007-ignatius-philadelphians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/007-ignatius-philadelphians_CORRECTED.txt)
 | 008  | Ignatius to Smyrnaeans       | ✔    | ✔    | ✔    | ✔         | [008-ignatius-smyrnaeans_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/008-ignatius-smyrnaeans_CORRECTED.txt)   
-| 009  | Ignatius to Polycarp         | ✔    | ✔    | ✔    
-| 010  | Polycarp to Philippians      | ✔    | ✔    | ✔    
+| 009  | Ignatius to Polycarp         | ✔    | ✔    | ✔    | ✔         | [009-ignatius-polycarp_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/009-ignatius-polycarp_CORRECTED.txt)
+| 010  | Polycarp to Philippians      | ✔    | ✔    | ✔    | ✔         | [010-polycarp-philippians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/010-polycarp-philippians_CORRECTED.txt)
 | 011  | Didache                      | ✔    | ✔    |
 | 012  | Barnabas                     | ✔    | ✔    |
 | 013  | Shepherd                     | ✔    |

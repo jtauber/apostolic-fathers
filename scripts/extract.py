@@ -6,9 +6,11 @@
 from itertools import zip_longest
 from unicodedata import normalize
 
-WORK = "008-ignatius-smyrnaeans"
+# WORK = "009-ignatius-polycarp"
+WORK = "010-polycarp-philippians"
 
-LINES_1 = open(f"comparison/{WORK}_COMPARE_JT1.txt").readlines()
+
+LINES_1 = open(f"comparison/{WORK}_COMPARE_JT2.txt").readlines()
 LINES_2 = open(f"comparison/{WORK}_COMPARE_SM2.txt").readlines()
 
 assert len(LINES_1) == len(LINES_2)
