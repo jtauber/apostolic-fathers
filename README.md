@@ -33,7 +33,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 | 009  | Ignatius to Polycarp         | ✔    | ✔    | ✔    | ✔         | [009-ignatius-polycarp_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/009-ignatius-polycarp_CORRECTED.txt)
 | 010  | Polycarp to Philippians      | ✔    | ✔    | ✔    | ✔         | [010-polycarp-philippians_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/010-polycarp-philippians_CORRECTED.txt)
 | 011  | Didache                      | ✔    | ✔    | ✔    | ✔         | [011-didache_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/011-didache_CORRECTED.txt)
-| 012  | Barnabas                     | ✔    | ✔    |
+| 012  | Barnabas                     | ✔    | ✔    | ✔    |
 | 013  | Shepherd                     | ✔    | 17%  |
 | 014  | Martyrdom of Polycarp        | ✔    |
 | 015  | Diognetus                    | ✔    |
