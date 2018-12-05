@@ -5,8 +5,8 @@ from unicodedata import normalize
 
 WORK = "012-barnabas"
 
-LINES_1 = open(f"comparison/{WORK}_COMPARE_JT1.txt").readlines()
-LINES_2 = open(f"comparison/{WORK}_COMPARE_SM1.txt").readlines()
+LINES_1 = open(f"comparison/{WORK}_COMPARE_JT2.txt").readlines()
+LINES_2 = open(f"comparison/{WORK}_COMPARE_SM2.txt").readlines()
 
 assert len(LINES_1) == len(LINES_2)
 
