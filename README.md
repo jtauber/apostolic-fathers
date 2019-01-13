@@ -35,7 +35,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 | 011  | Didache                      | ✔    | ✔    | ✔    | ✔         | [011-didache_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/011-didache_CORRECTED.txt)
 | 012  | Barnabas                     | ✔    | ✔    | ✔    | ✔         | [012-barnabas_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/012-barnabas_CORRECTED.txt)
 | 013  | Shepherd                     | ✔    | ✔    | ✔    |
-| 014  | Martyrdom of Polycarp        | ✔    |      | ✔    |
+| 014  | Martyrdom of Polycarp        | ✔    | ✔    | ✔    |
 | 015  | Diognetus                    | ✔    |      | ✔    |
 
 See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md) for details of the process.
