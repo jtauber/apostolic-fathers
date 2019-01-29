@@ -1,0 +1,8 @@
+2.2      175 ac   μάστιξιν                  μάστιξιν·                
+8.1      805 ab   δε?                       δέ*                      
+16.2    1939 ac   αὐτοῦm                    αὐτοῦ,                   
+23.0    2596 bc   EPILOGUS                  Epilogus                 
+23.0    2597 bc   ALIUS                     Alius                    
+23.1    2602 bc   CODICE                    Codice                   
+23.1    2603 bc   MOSQUIENSI                Mosquensi                
+23.1    2604 bc   DESCRIPTUS.               Descriptus.              

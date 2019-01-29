@@ -1,0 +1,42 @@
+2.2.5   1425 ab   μετανοίας*                μενανοίας?
+JT: I think SM3 just needs to have *
+
+3.6.1   3413 ac   πονηρίας*                 πονηρίας
+JT: I think SM3 just needs to have *
+
+3.7.6   3915 ab   βασανισθῶσιν*             βασανισθωσιν?
+JT: printed text is missing accent but as best I can tell it should be ῶ
+JT: if you are happy with that, SM3 should change to *
+
+3.8.5   4094 bc   εἰσίν.                    εἰσίν
+JT: are we going with a period here or not?
+
+9.3.7   7936 bc   αὐτῷ·*                    αὐτῷ
+JT: my scan has the middle dot, yours does not. What should our edition have?
+
+11.0.0   8842 @@   ϛʹ.                       ϛʹ.*
+JT: SM3 should remove *
+
+23.0.0  16901 @@   ϛʹ.*                      ϛʹ
+JT: SM3 should add . and *
+
+25.3.2  19589 ac   ἐστι                      ἐστι*
+JT: is this a bad scan or a bad printing?
+
+25.3.2  19606 ac   κηρύγματος                κηρύγματος*
+JT: is this a bad scan or a bad printing?
+
+25.3.3  19617 ac   ὁ                         ὁ*
+JT: is this a bad scan or a bad printing?
+
+26.0.0  21661 @@   θʹ.*                      θʹ
+JT: SM3 should add . and *
+
+26.11.9  25081 @@   ὅλως?                     ἅλως
+JT: so the correct reading (regardless of printing) is ἅλως?
+
+26.29.4  29229 ac   τὰ?                       τὸ
+JT: I haven't found a scan for which this is clear
+
+27.3.5  30630 ab   …                         ...
+JT: SM3 should just use … for consistency

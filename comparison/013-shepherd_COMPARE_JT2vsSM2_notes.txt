@@ -1,0 +1,93 @@
+
+2.2.5   1425 ab   μενανοίας                 μενανοίας?
+JT: The text clearly has μενανοίας. Is there ANY reason to think this isn't supposed to be μετανοίας?
+SM: I can't think of a reason not to correct to μετανοίας
+
+3.6.1   3413 ac   πονηρίας*                 πονηρίας
+JT: The only reason I added a * is in the printed text I looked at, the acute seems to (incorrectly) be a rough breathing.
+SM: I can concede that it might be a rough breathing misprint; retain the * as you please
+
+3.7.6   3915 ab   βασανισθῶσιν*             βασανισθωσιν?
+JT: Not accented in my printed text so circumflex is supplied.
+SM: I just wasn't sure how it should be accented myself, hence ?
+
+3.8.4   4049 ac   Ἑγκράτεια                 Ἐγκράτεια*
+JT: Seumas is correct.
+
+3.8.5   4094 bc   εἰσίν?                    εἰσίν
+JT: There is a mark in my printed text that looks like it could have been punctuation. But does that make sense?
+SM: it looks to me as if there's a comma that hasn't printed, e.g. the ink hasn't come through but the impression is there. But I can see that a period might be better.
+
+9.1.9   7467 ac   ἀμαρτίας                  ἁμαρτίας*
+JT: Why the *? Looks fine in my scan.
+SM: my scan definitely had a typo.
+
+9.3.7   7936 bc   αὐτῷ·                     αὐτῷ
+JT: My scan definitely has middle dot and it makes sense, doesn't it?
+SM: my scan definitely didn't have a middle dot, though I can see why one might have one.
+
+10.0.0   8098 ac   Εντολὴ                    Ἐντολὴ
+JT: Seumas is correct.
+
+11.0.0   8842 @@   ϛʹ.                       ϛʹ.*
+JT: Is the * just because of the supplied period?
+SM: Aren't these different characters for the numeral?
+JT: My printed has stigma and that's what we correct to so not sure need for *
+
+13.1.10  10112 ac   φυχῇ                      ψυχῇ*
+JT: Seumas is correct.
+
+17.3.3  12698 ac   .?                        -
+JT: This is just we didn't have a clear convention for indicating a deleted line.
+SM: Yes
+
+23.0.0  16901 @@   ϛʹ.*                      ϛʹ
+JT: I added the * because I supplied the period.
+
+24.1.4  18496 ac   θίψεσι                    θλίψεσι*
+JT: Seumas is correct.
+
+25.2.2  19220 ac   ῥάβδους                   ῥάβδους*
+JT: Yes, this should have * as extra accent removed.
+SM: right, accent removed.
+
+25.3.2  19589 ac   ἐστι                      ἐστι*
+JT: ἐστι is what my scan has. Why the *?
+SM: my text is just cut off, but I'm fine with the reading
+JT: if we think it's a bad scan rather than a bad printing, we should remove *
+
+25.3.2  19606 ac   κηρύγματος                κηρύγματος*
+JT: κηρύγματος is what my scan has. Why the *?
+SM: my text is just cut off, but I'm fine with the reading
+JT: if we think it's a bad scan rather than a bad printing, we should remove *
+
+25.3.3  19617 ac   ὁ                         ὁ*
+JT: ὁ is what my scan has. Why the *?
+SM: my text is just cut off, but I'm fine with the reading
+JT: if we think it's a bad scan rather than a bad printing, we should remove *
+
+25.5.4  20209 ac   τινὲς?                    τινὲς
+JT: The grave is barely visible in my scan but if it's clear on yours, let's go with it (without a *)
+
+26.0.0  21661 @@   θʹ.*                      θʹ
+JT: I supplied the period for consistency.
+
+26.2.3  22200 ab   ἄλλαι?                    ἄλλαι*
+JT: Seumas is correct.
+
+26.9.4  24301 ac   ὄθεν                      ὅθεν*
+JT: My scan doesn't even have this page but checking a different scan, Seumas is correct.
+
+26.11.9  25081 @@   ὅλως                      ἅλως
+JT: Looks like a smudged omicron to me, not an alpha, so we'll need a * if it's a correction.
+SM: my version seems clearly to be an alpha
+
+26.16.5  26605 ac   σφαγῖδα;?                 σφραγῖδα;*
+JT: Seumas is correct.
+
+26.29.4  29229 ac   τὰ?                       τὸ
+JT: Cut off in all scans so I can't confirm what Lake has.
+
+27.3.5  30630 ab   …                         ...
+JT: Just typographically using a single "ellipsis" character rather than three dots. I believe we did this elsewhere.
+SM: Just wasn't sure about typography.
