@@ -2,7 +2,7 @@
 
 *Edited by James Tauber and Seumas Macdonald*
 
-The Perseus Digital Library / Open Greek and Latin Project text of Lake is currently being compared with the text in CCEL and in Logos to identify discrepancies. These are then being manually checked (twice independently) against the printed Lake to produce a new, corrected text of the Apostolic Fathers based on Lake.
+To produced these texts, the Perseus Digital Library / Open Greek and Latin Project / First1KGreek text of Lake was compared with the text in CCEL and in Logos to identify discrepancies. These were then manually checked (twice independently) against the printed Lake to produce a new, corrected text of the Apostolic Fathers based on Lake.
 
 See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md) for details of the process.
 
@@ -37,5 +37,3 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 | 013  | Shepherd                     | ✔    | ✔    | ✔    | ✔         | [013-shepherd_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/013-shepherd_CORRECTED.txt)
 | 014  | Martyrdom of Polycarp        | ✔    | ✔    | ✔    | ✔         | [014-martyrdom_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/014-martyrdom_CORRECTED.txt)
 | 015  | Diognetus                    | ✔    | ✔    | ✔    | ✔         | [015-diognetus_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/015-diognetus_CORRECTED.txt)
-
-See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md) for details of the process.
