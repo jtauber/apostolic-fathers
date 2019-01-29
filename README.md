@@ -36,6 +36,6 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 | 012  | Barnabas                     | ✔    | ✔    | ✔    | ✔         | [012-barnabas_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/012-barnabas_CORRECTED.txt)
 | 013  | Shepherd                     | ✔    | ✔    | ✔    | ✔         | [013-shepherd_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/013-shepherd_CORRECTED.txt)
 | 014  | Martyrdom of Polycarp        | ✔    | ✔    | ✔    | ✔         | [014-martyrdom_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/014-martyrdom_CORRECTED.txt)
-| 015  | Diognetus                    | ✔    | ✔    | ✔    |
+| 015  | Diognetus                    | ✔    | ✔    | ✔    | ✔         | [015-diognetus_CORRECTED.txt](https://github.com/jtauber/apostolic-fathers/blob/master/structured/015-diognetus_CORRECTED.txt)
 
 See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md) for details of the process.
