@@ -46,12 +46,12 @@ for fname in glob.glob("structured/*_CORRECTED.txt"):
             # the first token must be a reference of the form <num>.<num>
             # or <num>.<num>.<num>
 
-            if not re.match(r"\d+\.\d+(\.\d+)?$", parts[0]):
+            if not re.match(r"(\d+|EP|SB)\.\d+(\.\d+)?$", parts[0]):
                 error(fname, lnum, "BAD REFERENCE FORM")
 
             # references must be in sort order
 
-            ref = tuple(int(i) for i in parts[0].split("."))
+            ref = tuple(int({"EP": 999, "SB": 999}.get(i, i)) for i in parts[0].split("."))
 
             if prev_ref and ref <= prev_ref:
                 error(fname, lnum, f"BAD REFERENCE ORDERING")
