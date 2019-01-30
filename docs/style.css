@@ -8,20 +8,26 @@ body {
   margin: 1em;
 }
 nav {
+  font-size: 120%;
   text-align: center;
 }
 a {
   color: #C00;
+  text-decoration: none;
+}
+a:hover {
+  color: #F33;
+  text-decoration: underline;
 }
 h1 {
   text-align: center;
 }
 body.index h1 {
-  font-size: 36pt;
+  font-size: 3em;
   margin-bottom: 0;
 }
 body.index h2 {
-  font-size: 20pt;
+  font-size: 1.6em;
   margin-top: 0;
   font-weight: normal;
   text-align: center;
@@ -30,8 +36,12 @@ p.lead {
   font-size: 120%;
   margin-top: 1em;
 }
+ul {
+  margin: 2em 0 3em;
+}
 li {
   font-size: 1.2em;
+  line-height: 1.5em;
 }
 .chapter {
   margin: 1em 0;

@@ -58,7 +58,7 @@ for WORK in WORK_LIST:
     </head>
     <body>
       <div class="container">
-      <nav><a href="./">Apostolic Fathers</a></nav>
+      <nav>&#x2B11; <a href="./">Apostolic Fathers</a></nav>
       <h1 lang="en">{TITLE}</h1>
     """
 
