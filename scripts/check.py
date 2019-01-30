@@ -17,7 +17,7 @@ GRCHAR = r"[\u0374\u0390-\u03A1\u03A3-\u03C1\u03C3-\u03CE" \
          r"\u1FF2-\u1FF4\u1FF6-\u1FFC]"
 
 WORD_REGEX = fr"({ELLIPSIS}|{LATIN}|{NUMBER}{PUNC}?|" \
-             fr"\(?{GRCHAR}+\u03C2?\)?[\u2019]?{PUNC}?\)?\*?)$"
+             fr"\(?{GRCHAR}+\u03C2?\)?[\u2019]?{PUNC}?\)?)$"
 
 
 def error(*parts):
