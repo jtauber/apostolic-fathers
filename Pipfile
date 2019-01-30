@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 roman = "*"
 lxml = "*"
+roman-numerals = "*"
 
 [dev-packages]
 "flake8" = "*"
