@@ -7,8 +7,17 @@ body {
   max-width: 800px;
   margin: 1em;
 }
+nav {
+  text-align: center;
+}
+a {
+  color: #C00;
+}
 h1 {
   text-align: center;
+}
+li {
+  font-size: 1.2em;
 }
 .chapter {
   margin: 1em 0;
