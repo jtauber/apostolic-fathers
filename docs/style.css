@@ -16,6 +16,20 @@ a {
 h1 {
   text-align: center;
 }
+body.index h1 {
+  font-size: 36pt;
+  margin-bottom: 0;
+}
+body.index h2 {
+  font-size: 20pt;
+  margin-top: 0;
+  font-weight: normal;
+  text-align: center;
+}
+p.lead {
+  font-size: 120%;
+  margin-top: 1em;
+}
 li {
   font-size: 1.2em;
 }
