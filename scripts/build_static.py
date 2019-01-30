@@ -81,15 +81,32 @@ for WORK in WORK_LIST:
                     chapter, verse = ref
                 else:
                     section, chapter, verse = ref
+                if prev_section != section:
+                    if prev_section is not None:
+                        print("   </div>""", file=g)
+                        print("   </div>""", file=g)
+                    print("""   <div class="section">""", file=g)
+                    prev_section = section
+                    prev_chapter = None
                 if prev_chapter != chapter:
                     if prev_chapter is not None:
-                        print("""    </div>""", file=g)
-                    print("""    <div class="chapter">""", file=g)
-                    if chapter != 0:
+                        if prev_chapter == 0:
+                            print("""    </div>""", file=g)
+                        else:
+                            print("""    </div>""", file=g)
+                    if chapter == 0:
+                        print("""    <div class="preamble">""", file=g)
+                    else:
+                        print("""    <div class="chapter">""", file=g)
                         print(f"""      <h3 class="chapter_ref">{convert_to_numeral(chapter)}</h3>""", file=g)
                     prev_chapter = chapter
-                if verse != 1:
-                    print(f"""      <span class="verse_ref">{verse}</span>""", end="&nbsp;", file=g)
-                print(parts[1], file=g)
+                if chapter == 0 and verse == 0:
+                    print(f"""      @@@<span class="verse_ref">{verse}</span>""", end="&nbsp;", file=g)
+                else:
+                    if verse != 1:
+                        print(f"""      <span class="verse_ref">{verse}</span>""", end="&nbsp;", file=g)
+                    print(parts[1], file=g)
             print("""    </div>""", file=g)
+            if section is not None:
+                print("""    </div>""", file=g)
             print(FOOTER, file=g)
