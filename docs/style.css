@@ -46,7 +46,7 @@ li {
 .section {
   margin: 2em 0;
 }
-.chapter, .preamble {
+.chapter, .preamble, .subscription, .epilogue {
   margin: 1em 0;
   line-height: 1.8em;
   font-size: 1.3em;
