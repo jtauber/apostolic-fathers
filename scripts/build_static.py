@@ -75,7 +75,7 @@ for WORK in WORK_LIST:
             print(HEADER, file=g)
             for line in f:
                 parts = line.strip().split(maxsplit=1)
-                ref = tuple(int(i) for i in parts[0].split("."))
+                ref = parts[0].split(".")
                 if len(ref) == 2:
                     section = None
                     chapter, verse = ref
@@ -90,22 +90,27 @@ for WORK in WORK_LIST:
                     prev_chapter = None
                 if prev_chapter != chapter:
                     if prev_chapter is not None:
-                        if prev_chapter == 0:
+                        if prev_chapter == "0":
                             if section is None:
                                 print("""    </div>""", file=g)
                         else:
                             print("""    </div>""", file=g)
-                    if chapter == 0:
+                    if chapter == "0":
                         if section is None:
                             print("""    <div class="preamble">""", file=g)
                     else:
-                        print("""    <div class="chapter">""", file=g)
-                        print(f"""      <h3 class="chapter_ref">{convert_to_numeral(chapter)}</h3>""", file=g)
+                        if chapter == "SB":
+                            print("""    <div class="subscription">""", file=g)
+                        elif chapter == "EP":
+                            print("""    <div class="epilogue">""", file=g)
+                        else:
+                            print("""    <div class="chapter">""", file=g)
+                            print(f"""      <h3 class="chapter_ref">{convert_to_numeral(int(chapter))}</h3>""", file=g)
                     prev_chapter = chapter
-                if chapter == 0 and verse == 0:
+                if chapter == "0" and verse == "0":
                     print(f"""    <h2 class="section_title">{parts[1]}</h2>""", file=g)
                 else:
-                    if verse != 1:
+                    if verse != "1":
                         print(f"""      <span class="verse_ref">{verse}</span>""", end="&nbsp;", file=g)
                     print(parts[1], file=g)
             print("""    </div>""", file=g)
