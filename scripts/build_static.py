@@ -110,9 +110,12 @@ for WORK in WORK_LIST:
                 if chapter == "0" and verse == "0":
                     print(f"""    <h2 class="section_title">{parts[1]}</h2>""", file=g)
                 else:
-                    if verse != "1":
-                        print(f"""      <span class="verse_ref">{verse}</span>""", end="&nbsp;", file=g)
-                    print(parts[1], file=g)
+                    if chapter == "EP" and verse == "0":
+                        print(f"""<h3 class="epilogue_title">{parts[1]}</h3>""", file=g)
+                    else:
+                        if verse != "1":
+                            print(f"""      <span class="verse_ref">{verse}</span>""", end="&nbsp;", file=g)
+                        print(parts[1], file=g)
             print("""    </div>""", file=g)
             if section is not None:
                 print("""    </div>""", file=g)

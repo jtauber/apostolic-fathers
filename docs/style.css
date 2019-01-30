@@ -61,6 +61,11 @@ li {
   text-align: center;
   color: #C00;
 }
+.epilogue_title {
+  font-size: 1.2em;
+  margin: 1em 0 0.3em;
+  text-align: center;
+}
 .verse_ref {
   color: #C00;
   font-size: 70%;
