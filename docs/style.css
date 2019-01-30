@@ -43,12 +43,20 @@ li {
   font-size: 1.2em;
   line-height: 1.5em;
 }
+.section {
+  margin: 2em 0;
+}
 .chapter, .preamble {
   margin: 1em 0;
   line-height: 1.8em;
   font-size: 1.3em;
 }
+.section_title {
+  font-size: 1.6em;
+  text-align: center;
+}
 .chapter_ref {
+  font-size: 1.2em;
   margin: 1em 0 0.3em;
   text-align: center;
   color: #C00;

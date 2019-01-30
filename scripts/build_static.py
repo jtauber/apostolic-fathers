@@ -91,17 +91,19 @@ for WORK in WORK_LIST:
                 if prev_chapter != chapter:
                     if prev_chapter is not None:
                         if prev_chapter == 0:
-                            print("""    </div>""", file=g)
+                            if section is None:
+                                print("""    </div>""", file=g)
                         else:
                             print("""    </div>""", file=g)
                     if chapter == 0:
-                        print("""    <div class="preamble">""", file=g)
+                        if section is None:
+                            print("""    <div class="preamble">""", file=g)
                     else:
                         print("""    <div class="chapter">""", file=g)
                         print(f"""      <h3 class="chapter_ref">{convert_to_numeral(chapter)}</h3>""", file=g)
                     prev_chapter = chapter
                 if chapter == 0 and verse == 0:
-                    print(f"""      @@@<span class="verse_ref">{verse}</span>""", end="&nbsp;", file=g)
+                    print(f"""    <h2 class="section_title">{parts[1]}</h2>""", file=g)
                 else:
                     if verse != 1:
                         print(f"""      <span class="verse_ref">{verse}</span>""", end="&nbsp;", file=g)
