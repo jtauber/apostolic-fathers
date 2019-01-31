@@ -24,7 +24,7 @@ def error(*parts):
     print(": ".join(map(str, parts)), file=sys.stderr)
 
 
-for fname in glob.glob("structured/*_CORRECTED.txt"):
+for fname in glob.glob("texts/*.txt"):
 
     with open(fname) as f:
 
