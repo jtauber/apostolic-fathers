@@ -2,9 +2,11 @@
 
 *Edited by James Tauber and Seumas Macdonald*
 
-To produced these texts, the Perseus Digital Library / Open Greek and Latin Project / First1KGreek text of Lake was compared with the text in CCEL and in Logos to identify discrepancies. These were then manually checked (twice independently) against multiple scans of the printed Lake to produce a new, corrected text of the Apostolic Fathers based on Lake.
+To produced these texts, the Perseus Digital Library and the Open Greek and Latin First Thousand Years of Greek text of Lake was compared with the text in CCEL and in Logos to identify discrepancies. These were then manually checked (twice independently) against multiple scans of the printed Lake to produce a new, corrected text of the Apostolic Fathers based on Lake.
 
-See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md) for details of the process.
+Formatted texts may be browsed at <https://jtauber.github.io/apostolic-fathers/>.
+
+See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md) for details of the process of correction.
 
 Lemmatisation and morphological analysis will follow.
 
