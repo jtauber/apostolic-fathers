@@ -42,7 +42,7 @@ TITLES = {
 
 for WORK in WORK_LIST:
     print(WORK)
-    SRC = f"../structured/{WORK}_CORRECTED.txt"
+    SRC = f"../texts/{WORK}.txt"
     DEST = f"../docs/{WORK}.html"
 
     TITLE = TITLES[WORK[:3]]
