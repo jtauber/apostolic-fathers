@@ -29,7 +29,7 @@ TITLES = {
     "005": "Ignatius to the Trallians",
     "006": "Ignatius to the Romans",
     "007": "Ignatius to the Philadelphians",
-    "008": "Ignatius to the Symrnaeans",
+    "008": "Ignatius to the Smyrnaeans",
     "009": "Ignatius to Polycarp",
     "010": "Polycarp to the Philippians",
     "011": "The Didache",
