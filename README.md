@@ -2,6 +2,8 @@
 
 *Edited by James Tauber and Seumas Macdonald*
 
+[![DOI](https://zenodo.org/badge/152836109.svg)](https://zenodo.org/badge/latestdoi/152836109)
+
 To produced these texts, the Perseus Digital Library and the Open Greek and Latin First Thousand Years of Greek text of Lake was compared with the text in CCEL and in Logos to identify discrepancies. These were then manually checked (twice independently) against multiple scans of the printed Lake to produce a new, corrected text of the Apostolic Fathers based on Lake.
 
 Formatted texts may be browsed at <https://jtauber.github.io/apostolic-fathers/>.
