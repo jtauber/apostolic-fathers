@@ -1,4 +1,4 @@
-# Apostolic Fathers
+# Open Apostolic Fathers
 
 *Edited by James Tauber and Seumas Macdonald*
 
@@ -20,6 +20,10 @@ Lemmatisation and morphological analysis will follow.
 ## License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+## How to Cite
+
+Tauber, James, & Macdonald, Seumas. (2019). Open Apostolic Fathers (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.2555673
 
 ## Text
 
