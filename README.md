@@ -21,7 +21,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ## Text
 
-| Code | Work                         |          |
+| Code | Work                         | Links    |
 | ---- | ---------------------------- | -------- |
 | 001  | 1 Clement                    | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/001-i_clement.txt) [html](https://jtauber.github.io/apostolic-fathers/001-i_clement.html) |
 | 002  | 2 Clement                    | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/002-ii_clement.txt) [html](https://jtauber.github.io/apostolic-fathers/002-ii_clement.html)  |
