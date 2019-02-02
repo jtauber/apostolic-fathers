@@ -8,34 +8,33 @@ Formatted texts may be browsed at <https://jtauber.github.io/apostolic-fathers/>
 
 See [NOTES.md](https://github.com/jtauber/apostolic-fathers/blob/master/NOTES.md) for details of the process of correction.
 
+Also see the blog posts:
+
+* [Preparing an Open Apostolic Fathers](https://jktauber.com/2018/11/01/preparing-open-apostolic-fathers/)
+* [Initial Apostolic Fathers Text Complete](https://jktauber.com/2019/02/01/initial-apostolic-fathers-text-complete/)
+
 Lemmatisation and morphological analysis will follow.
 
 ## License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-## Status
+## Text
 
-**Prep** — text converted and aligned  
-**JT1** — first correction by James  
-**SM1** — first correction by Seumas  
-**Candidate** — consensus achieved and candidate corrected text available
-
-
-| Code | Work                         | Prep | JT1  | SM1  | Candidate | Link |
-| ---- | ---------------------------- | ---- | ---- | ---- | --------- | ---- |
-| 001  | 1 Clement                    | ✔    | ✔    | ✔    | ✔         | [001-i_clement.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/001-i_clement.txt)
-| 002  | 2 Clement                    | ✔    | ✔    | ✔    | ✔         | [002-ii_clement.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/002-ii_clement.txt)
-| 003  | Ignatius to Ephesians        | ✔    | ✔    | ✔    | ✔         | [003-ignatius-ephesians.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/003-ignatius-ephesians.txt)
-| 004  | Ignatius to Magnesians       | ✔    | ✔    | ✔    | ✔         | [004-ignatius-magnesians.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/004-ignatius-magnesians.txt)
-| 005  | Ignatius to Trallians        | ✔    | ✔    | ✔    | ✔         | [005-ignatius-trallians.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/005-ignatius-trallians.txt)
-| 006  | Ignatius to Romans           | ✔    | ✔    | ✔    | ✔         | [006-ignatius-romans.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/006-ignatius-romans.txt)
-| 007  | Ignatius to Philadelphians   | ✔    | ✔    | ✔    | ✔         | [007-ignatius-philadelphians.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/007-ignatius-philadelphians.txt)
-| 008  | Ignatius to Smyrnaeans       | ✔    | ✔    | ✔    | ✔         | [008-ignatius-smyrnaeans.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/008-ignatius-smyrnaeans.txt)   
-| 009  | Ignatius to Polycarp         | ✔    | ✔    | ✔    | ✔         | [009-ignatius-polycarp.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/009-ignatius-polycarp.txt)
-| 010  | Polycarp to Philippians      | ✔    | ✔    | ✔    | ✔         | [010-polycarp-philippians.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/010-polycarp-philippians.txt)
-| 011  | Didache                      | ✔    | ✔    | ✔    | ✔         | [011-didache.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/011-didache.txt)
-| 012  | Barnabas                     | ✔    | ✔    | ✔    | ✔         | [012-barnabas.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/012-barnabas.txt)
-| 013  | Shepherd                     | ✔    | ✔    | ✔    | ✔         | [013-shepherd.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/013-shepherd.txt)
-| 014  | Martyrdom of Polycarp        | ✔    | ✔    | ✔    | ✔         | [014-martyrdom.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/014-martyrdom.txt)
-| 015  | Diognetus                    | ✔    | ✔    | ✔    | ✔         | [015-diognetus.txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/015-diognetus.txt)
+| Code | Work                         |          |
+| ---- | ---------------------------- | -------- |
+| 001  | 1 Clement                    | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/001-i_clement.txt) [html](https://jtauber.github.io/apostolic-fathers/001-i_clement.html) |
+| 002  | 2 Clement                    | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/002-ii_clement.txt) [html](https://jtauber.github.io/apostolic-fathers/002-ii_clement.html)  |
+| 003  | Ignatius to Ephesians        | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/003-ignatius-ephesians.txt) [html](https://jtauber.github.io/apostolic-fathers/003-ignatius-ephesians.html)  |
+| 004  | Ignatius to Magnesians       | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/004-ignatius-magnesians.txt) [html](https://jtauber.github.io/apostolic-fathers/004-ignatius-magnesians.html)  |
+| 005  | Ignatius to Trallians        | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/005-ignatius-trallians.txt) [html](https://jtauber.github.io/apostolic-fathers/005-ignatius-trallians.html)  |
+| 006  | Ignatius to Romans           | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/006-ignatius-romans.txt) [html](https://jtauber.github.io/apostolic-fathers/006-ignatius-romans.html)  |
+| 007  | Ignatius to Philadelphians   | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/007-ignatius-philadelphians.txt) [html](https://jtauber.github.io/apostolic-fathers/007-ignatius-philadelphians.html)  |
+| 008  | Ignatius to Smyrnaeans       | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/008-ignatius-smyrnaeans.txt) [html](https://jtauber.github.io/apostolic-fathers/008-ignatius-smyrnaeans.html)  |   
+| 009  | Ignatius to Polycarp         | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/009-ignatius-polycarp.txt) [html](https://jtauber.github.io/apostolic-fathers/009-ignatius-polycarp.html)  |
+| 010  | Polycarp to Philippians      | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/010-polycarp-philippians.txt) [html](https://jtauber.github.io/apostolic-fathers/010-polycarp-philippians.html)  |
+| 011  | Didache                      | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/011-didache.txt) [html](https://jtauber.github.io/apostolic-fathers/011-didache.html) |
+| 012  | Barnabas                     | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/012-barnabas.txt) [html](https://jtauber.github.io/apostolic-fathers/012-barnabas.html)  |
+| 013  | Shepherd                     | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/013-shepherd.txt) [html](https://jtauber.github.io/apostolic-fathers/013-shepherd.html)  |
+| 014  | Martyrdom of Polycarp        | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/014-martyrdom.txt) [html](https://jtauber.github.io/apostolic-fathers/014-martyrdom.html)  |
+| 015  | Diognetus                    | [txt](https://github.com/jtauber/apostolic-fathers/blob/master/texts/015-diognetus.txt) [html](https://jtauber.github.io/apostolic-fathers/015-diognetus.html) |
