@@ -1,0 +1,31 @@
+["text_validator.plugins.whitespace"]
+CHECK_CRLF = true
+CHECK_TABS = true
+CHECK_TRAILING_WHITESPACE = true
+CHECK_NO_EOF_NEWLINE = true
+
+["text_validator.plugins.unicode"]
+CONFIRM_UTF_8_NFC = true
+
+["text_validator.plugins.ref_line_format"]
+REF_REGEX = "(\\d+|EP|SB)\\.\\d+(\\.\\d+)?$"
+
+["text_validator.plugins.characters"]
+REPLACE_CHARS = [
+    # bad character, suggested replacement
+    ["\u02BC", "\u2019"],
+    ["\u1FBF", "\u2019"],
+    ["\u037E", "\u003B"],
+    ["\u0387", "\u00B7"],
+    ["\u0374", "\u02B9"],
+    ["\u03D5", "\u03C6"],
+    ["\u03D1", "\u03B8"],
+]
+TOKEN_REGEXES = [
+    # each whitespace-separated token must match one of these regexes
+    "(\\d+|EP|SB)\\.\\d+(\\.\\d+)?$",
+    "[«(]*[\u0370-\u03FF\u1F00-\u1FFF]+\u2019?[.,:;»)·]*$",
+    "[α-ωϛ]{1,2}\u02B9",
+    "[A-Za-zë]+[.,;:?]*$",
+    "…$",
+]

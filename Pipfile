@@ -7,6 +7,8 @@ name = "pypi"
 roman = "*"
 lxml = "*"
 roman-numerals = "*"
+requests = "*"
+text-validator = "*"
 
 [dev-packages]
 "flake8" = "*"
