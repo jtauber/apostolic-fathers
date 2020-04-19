@@ -9,6 +9,7 @@ lxml = "*"
 roman-numerals = "*"
 requests = "*"
 text-validator = "*"
+greek-normalisation = "*"
 
 [dev-packages]
 "flake8" = "*"
